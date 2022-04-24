@@ -1,4 +1,4 @@
-### Technical indicators
+## Technical indicators
 
 Simple moving averages(SMA), 
 exponential moving average(EMA), 
