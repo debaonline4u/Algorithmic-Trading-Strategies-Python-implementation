@@ -1,0 +1,16 @@
+Technical indicators
+
+Simple moving averages(SMA), 
+exponential moving average(EMA), 
+Kaufman's adaptive moving average(KAMA),
+Stop or reversal(SAR), 
+Triangular moving average(TRIMA), 
+Average directional index(ADX), 
+Absolute price oscillator(APO), 
+Commodity channel index(CCI), 
+Moving average convergence divergence(MACD), 
+Money flow index(MFI), 
+Momentum indicator (MOM), 
+Rate-of-change(ROC), 
+percentage price oscillator(PPO), 
+
