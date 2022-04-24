@@ -13,4 +13,20 @@
 11) Momentum indicator (MOM), 
 12) Rate-of-change(ROC), 
 13) percentage price oscillator(PPO), 
+14) Relative Strength Index (RSI)
+15) Stochastic Oscillator (STOCH)
+16) Ultimate Oscillator (ULTOSC)
+17) Williams % R (WillR)
+18) Average true range (ATR)
+19) True Range - (TRANGE)
+20) Price Transform Functions (TYPPRICE)
+21) Median Price (MEDPRICE)
+22) Typical Price (TYPPRICE)
+23) Weighted Close Price (WCLPRICE)
+24) Hilbert Transform - Dominant Cycle Period (HT_DCPERIOD)
+25) Hilbert Transform - Dominant Cycle Phase (HT_DCPHASE)
+26) Hilbert Transform - Phasor Components (HT_PHASOR)
+27) Hilbert Transform - SineWave (HT_SINE)
+28) Hilbert Transform - Trend vs Cycle Mode (HT_TRENDMODE)
+29) Beta - (BETA)
 
