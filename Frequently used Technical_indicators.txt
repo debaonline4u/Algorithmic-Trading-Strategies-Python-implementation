@@ -30,3 +30,6 @@
 28) Hilbert Transform - Trend vs Cycle Mode (HT_TRENDMODE)
 29) Beta - (BETA)
 
+
+Ref: https://mrjbq7.github.io/ta-lib/
+
