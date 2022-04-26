@@ -1,0 +1,33 @@
+Install Ta-Lib on Linux
+-------------------------
+sudo apt-get -y install gcc build-essential
+
+
+Install using Anaconda
+----------------------
+wget -O inst_conda.sh "https://repo.anaconda.com/archive/Anaconda3-2020.11-Linux-x86_64.sh" \
+  && /bin/bash inst_conda.sh -b \
+  && rm inst_conda.sh \
+  && ./anaconda3/bin/conda init \
+  && source ~/.bashrc \
+  && conda create -n quantra python=3.6.8 -y \
+  && conda activate quantra
+
+
+Install using PIP
+------------------
+wget http://prdownloads.sourceforge.net/ta-lib/ta-lib-0.4.0-src.tar.gz \
+  && sudo tar -xzf ta-lib-0.4.0-src.tar.gz \
+  && sudo rm ta-lib-0.4.0-src.tar.gz \
+  && cd ta-lib/ \
+  && sudo ./configure --prefix=/usr \
+  && sudo make \
+  && sudo make install \
+  && cd ~ \
+  && sudo rm -rf ta-lib/ \
+  && pip install ta-lib
+
+
+
+
+Ref: https://blog.quantinsti.com/install-ta-lib-python/
